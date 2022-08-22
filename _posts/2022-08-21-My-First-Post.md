@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 toc: true
 layout: post
@@ -100,3 +101,15 @@ key: value
 
 
 [^1]: This is the footnote.
+=======
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+>>>>>>> f5ac1941049a9a07a54f435a228a2019fb917569
