@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Title",
-            "content": "msg = &quot;Hello World&quot; print(msg) . Hello World . Welcome to notebooks in VScode. .",
+            "content": "msg = &quot;Hello World&quot; print(msg) . Hello World . Haeryn&#39;s First Notebook. .",
             "url": "https://haeryny.github.io/hihihi.github.io/2022/08/21/My-First-Notebook.html",
             "relUrl": "/2022/08/21/My-First-Notebook.html",
             "date": " • Aug 21, 2022"
